@@ -1,3 +1,7 @@
+#做了小部分修改，使得脚本能够支持大于9张图片的转发。
+
+
+
 # 订阅微博并同步至Telegram
 ![](https://img.shields.io/badge/python-3.x-blue) 
 ![](https://img.shields.io/badge/%E6%8F%90%E7%A4%BA-%E7%94%B5%E6%8A%A5%E5%8A%9F%E8%83%BD%E9%9C%80%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-informational)
