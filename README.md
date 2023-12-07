@@ -3,9 +3,7 @@
 ![](https://img.shields.io/badge/%E6%8F%90%E7%A4%BA-%E7%94%B5%E6%8A%A5%E5%8A%9F%E8%83%BD%E9%9C%80%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-informational)
 ![](https://visitor-badge.glitch.me/badge?page_id=cndiandian.weibo)
 
-[![](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%40%E7%A7%81%E8%81%8A%E8%AF%9D%E9%A2%98%E5%BA%9F-red "@私聊话题废")](https://weibo.com/u/5698313653)
-![](https://img.shields.io/badge/Gmail-shadiaoapp%40gmail.com-red)
-![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%EF%BC%88bug%E5%8F%8D%E9%A6%88\)-xshwy000-brightgreen)
+
 
 ## 实现了什么功能？
 订阅某个博主的微博，如果有发新微博、转发微博等动态，则及时将微博博文以及配图发送到指定的Telegram频道，并将配图保存到本地一份。
